@@ -18,7 +18,7 @@ Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Auto
 
 Let's show you how to select and modify code with our API effordless!
 
-### Out
+### In
 
 ```javascript
 const a = 1;
